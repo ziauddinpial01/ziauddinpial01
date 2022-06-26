@@ -1,7 +1,7 @@
-(https://scontent.fcgp1-1.fna.fbcdn.net/v/t39.30808-6/277559844_694408851901353_8806405305053046120_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGcKUEEnzQaEIuNu0iK987byPkdaR2msATI-R1pHaawBE8dkmWmgBwWsS7_Eyn4pQ_Zs7IFLRA6KBOJ8cTvP1aD&_nc_ohc=7gEmAOv_wjcAX83eR2-&_nc_zt=23&_nc_ht=scontent.fcgp1-1.fna&oh=00_AT-Kh953YBpfWAoAKCdiM_QKpWOJj5G1ueEHahoqHMbc5w&oe=62BD5CE8)
+![Android Apps Developer](https://scontent.fcgp1-1.fna.fbcdn.net/v/t39.30808-6/277559844_694408851901353_8806405305053046120_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGcKUEEnzQaEIuNu0iK987byPkdaR2msATI-R1pHaawBE8dkmWmgBwWsS7_Eyn4pQ_Zs7IFLRA6KBOJ8cTvP1aD&_nc_ohc=7gEmAOv_wjcAX83eR2-&_nc_zt=23&_nc_ht=scontent.fcgp1-1.fna&oh=00_AT-Kh953YBpfWAoAKCdiM_QKpWOJj5G1ueEHahoqHMbc5w&oe=62BD5CE8)
 ### Hi there 👋, I am J M  Ziauddin Pial
 #### Android Apps Developer
-![Android Apps Developer]
+
 
 I made my project just for android apps, it allows you to create nice and simple android apps that you can copy/paste and use in my code and build apps design. I am create apps from android user. You can read and copy my code from my GitHub Profile Project.
 
